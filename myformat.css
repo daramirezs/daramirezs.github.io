@@ -96,15 +96,15 @@ H6 {
 }
 div.project_name {
     font-size: 350%;
-    color: blue;
+    color: rgb(0, 0, 0);
     font-weight: bold;
-    border-top: solid #6d9ec6 5px;
+    border-top: solid #49f704 5px;
     padding-top: 5px;
     padding-bottom: 3px;
     padding-left: 15px;
   }
   div.page_links {
-    background: #6d9ec6;
+    background: #09b603;
     text-align: center;
   }
 .page_links{
